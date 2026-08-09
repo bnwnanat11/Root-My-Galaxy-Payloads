@@ -170,11 +170,11 @@
       "kernelVersions": ["5.15.189"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://githubusercontent.com",
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://githubusercontent.com",
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
         "size": 4758872
       }
     }
